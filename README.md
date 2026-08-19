@@ -1,78 +1,295 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Narayan</h1>
-<h3 align="center">Applied AI & RAG Developer | Skill Seeker</h3>
-
-<!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=AI+%26+RAG+Solutions;LangChain+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+
+# 👋 Hi, I'm Ashutosh Narayan
+
+### 🚀 Applied AI & RAG Developer | 🤖 GenAI Learner | ⚡ Core Electronics
+
+<p>
+  <a href="https://github.com/ASHUTOSH-334">
+    <img src="https://komarev.com/ghpvc/?username=ASHUTOSH-334&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ASHUTOSH-334?tab=followers">
+    <img src="https://img.shields.io/github/followers/ASHUTOSH-334?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ASHUTOSH-334?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-3-181717?style=for-the-badge&logo=github" alt="Public Repositories" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/ASHUTOSH-334">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:ashutoshnarayan877@gmail.com">Email</a>
+</p>
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASHUTOSH-334&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+---
+
+## 🧠 About Me
+
+I'm an **AI/GenAI learner and builder** focused on turning concepts into practical projects.
+
+My current journey revolves around:
+
+* 🤖 Generative AI & LLM applications
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🦜 LangChain & AI application development
+* 🧠 Embeddings, vector databases & semantic search
+* 🖥️ Streamlit-based AI applications
+* 🐍 Python development
+* ⚡ Core Electronics & engineering projects
+
+> **"Pushing commits until I get pulled 🚀"**
+
+I'm continuously learning by building, breaking, debugging, and rebuilding.
+
+---
+
+## 🔭 What I'm Working On
+
+### 📚 RAG Document Chatbot
+
+A Retrieval-Augmented Generation application for asking questions from PDF and text documents.
+
+**Tech Stack**
+
+`Python` `LangChain` `Mistral AI` `ChromaDB` `Streamlit` `PyPDF` `uv`
+
+🔗 **Repository:**
+https://github.com/ASHUTOSH-334/RAG-Document-Chatbot
+
+The project currently includes document loading, chunking, Mistral embeddings, ChromaDB vector storage, semantic retrieval, multi-query experimentation, and a Streamlit interface.
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 RAG Document Chatbot
+
+Build a chatbot that can retrieve information from PDF/text documents and generate answers using an LLM.
+
+**Built With**
+
+🐍 Python
+🦜 LangChain
+🧠 Mistral AI
+🗄️ ChromaDB
+🎈 Streamlit
+
+<a href="https://github.com/ASHUTOSH-334/RAG-Document-Chatbot">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 LLM Chat Bot
+
+A GenAI-powered conversational assistant built with Python, LangChain and Streamlit.
+
+**Built With**
+
+🐍 Python
+🦜 LangChain
+🤖 Mistral AI
+🎈 Streamlit
+
+<a href="https://github.com/ASHUTOSH-334/LLM-Chat_Bot-">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,matlab&theme=dark" alt="Programming Languages"/>
+</p>
+
+### 🤖 AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral AI"/>
+<img src="https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge" alt="RAG"/>
+</p>
+
+### 🗄️ Databases & AI Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Vector%20Database-6E40C9?style=for-the-badge" alt="Vector Database"/>
+<img src="https://img.shields.io/badge/Embeddings-0A66C2?style=for-the-badge" alt="Embeddings"/>
+</p>
+
+### 🧰 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development Tools"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge" alt="uv"/>
 </p>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-🔭 I’m currently working on **[RAG-Document-Chatbot](https://github.com/ASHUTOSH-334/RAG-Document-Chatbot)**  
-🌱 I’m currently learning **AI & RAG Solutions | LangChain | Applied ML**  
-💬 Ask me about: **Pushing commits until I get pulled 😉**  
-📫 Reach out to me: **[ashutoshnarayan877@gmail.com](mailto:ashutoshnarayan877@gmail.com)**  
+<a href="https://github.com/ASHUTOSH-334">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-334&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats"/>
+</a>
 
-</div>
+<a href="https://github.com/ASHUTOSH-334">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHUTOSH-334&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</a>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://linkedin.com/in/ashutosh narayan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ashutoshnarayan877@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+## 🔥 Contribution Streak
+
 <div align="center">
-  <!-- AI & Data -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <!-- Core Dev -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <!-- Design -->
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+
+<a href="https://github.com/ASHUTOSH-334">
+<img src="https://streak-stats.demolab.com?user=ASHUTOSH-334&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</a>
+
 </div>
 
 ---
 
-<h3 align="center">🔥 Featured Project</h3>
+## 📈 Contribution Activity
+
 <div align="center">
-  <a href="https://github.com/ASHUTOSH-334/RAG-Document-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHUTOSH-334&repo=RAG-Document-Chatbot&theme=radical" alt="RAG Document Chatbot" />
-  </a>
+
+<a href="https://github.com/ASHUTOSH-334">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHUTOSH-334&theme=tokyo-night&hide_border=true&area=true&custom_title=Ashutosh%27s%20Contribution%20Activity" alt="GitHub Activity Graph"/>
+</a>
+
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+## 🏆 GitHub Trophies
 
-<!-- GitHub Stats & Streak (Side by Side) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-334&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHUTOSH-334&theme=radical" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ASHUTOSH-334&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
 </div>
-<br>
 
-<!-- Top Languages -->
+The trophy service supports dynamically generated GitHub achievement cards and theme customization.
+
+---
+
+## 📌 GitHub Overview
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASHUTOSH-334&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ASHUTOSH-334&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Overview" alt="GitHub Overview"/>
+
 </div>
-<br>
 
-<!-- Contribution Activity Graph -->
+### 📦 Public Repositories
+
+**3 public repositories** currently appear on my GitHub profile.
+
+👉 [Explore all repositories](https://github.com/ASHUTOSH-334?tab=repositories)
+
+---
+
+## 🧩 Current Learning Path
+
+```text
+Python
+   │
+   ├── LangChain
+   │      │
+   │      ├── LLM Applications
+   │      ├── Prompt Engineering
+   │      └── AI Agents
+   │
+   ├── RAG
+   │      │
+   │      ├── Document Loading
+   │      ├── Chunking
+   │      ├── Embeddings
+   │      ├── Vector Databases
+   │      └── Retrieval Strategies
+   │
+   └── GenAI Applications
+          │
+          ├── Streamlit
+          ├── Mistral AI
+          └── Practical AI Projects
+```
+
+---
+
+## 🎯 2026 Goals
+
+* [x] Build my first GenAI chatbot
+* [x] Build a RAG application
+* [x] Work with LangChain
+* [x] Work with vector databases
+* [ ] Build production-ready AI agents
+* [ ] Explore advanced RAG architectures
+* [ ] Build and deploy more AI applications
+* [ ] Contribute to open source
+* [ ] Keep the contribution graph alive 🔥
+
+---
+
+## 💬 Ask Me About
+
+`Python` `GenAI` `RAG` `LangChain` `Mistral AI` `ChromaDB` `Streamlit` `Git & GitHub`
+
+---
+
+## 📫 Connect With Me
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHUTOSH-334&bg_color=141321&color=fe428e&line=f8d847&point=fff&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<a href="mailto:ashutoshnarayan877@gmail.com">
+<img src="https://img.shields.io/badge/Email-ashutoshnarayan877%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/ASHUTOSH-334">
+<img src="https://img.shields.io/badge/GitHub-ASHUTOSH--334-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I don't chase streaks.
+> **I chase commits. 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Building → Learning → Debugging → Improving → Repeating**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer"/>
+
 </div>
