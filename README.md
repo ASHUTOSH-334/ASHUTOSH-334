@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashutosh Narayan
+# 👋 Hey! , I'm Ashutosh Narayan
 
 ### 🤖 Applied AI & RAG Developer | ⚡ Skill Seeker | 🧠 Builder
 
