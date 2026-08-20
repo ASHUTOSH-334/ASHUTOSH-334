@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey! , I'm Ashutosh Narayan
+# 👋 Hey! I'm Ashutosh Narayan
 
-### 🤖 Applied AI & RAG Developer | ⚡ Skill Seeker | 🧠 Builder
+### 🤖 Applied AI & AI Agent Developer | ⚡ Skill Seeker | 🧠 Builder
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&height=55&lines=Building+AI+%26+RAG+Solutions;LangChain+%7C+Mistral+AI+%7C+ChromaDB;Python+%7C+Machine+Learning+%7C+GenAI;Turning+Ideas+Into+Working+Projects;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&height=55&lines=Building+AI+Agents+%26+RAG+Solutions;LangChain+%7C+Mistral+AI+%7C+Tool+Calling;Python+%7C+Machine+Learning+%7C+GenAI;Building+AI+Applications+with+External+Tools;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80"
     alt="Animated Skills"
   />
 </a>
@@ -45,8 +45,6 @@
   <img src="https://img.shields.io/badge/Email-ashutoshnarayan877%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<!-- Replace the LinkedIn URL below with your real LinkedIn profile -->
-
 <a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -57,15 +55,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **AI/GenAI learner and builder** focused on turning concepts into practical applications.
+I'm an **AI/GenAI learner and builder** focused on turning concepts into practical AI applications.
 
 Currently exploring:
 
 ```text
 🤖 Generative AI
+🧠 AI Agents
+🛠️ LLM Tool Calling
 🔎 Retrieval-Augmented Generation
 🦜 LangChain
-🧠 LLM Applications
+💬 LLM Applications
 🗄️ Vector Databases
 🐍 Python
 🎈 Streamlit
@@ -78,11 +78,37 @@ Currently exploring:
 
 ## 🔭 Currently Working On
 
-### 📚 RAG Document Chatbot
+### 🤖 AI Tool Agent — City Intelligence System
 
-I'm currently building a **Retrieval-Augmented Generation application** that allows users to interact with their documents using an LLM.
+I'm currently building an **AI Tool Agent** that can understand user requests, decide which tool is needed, and interact with external services using **LLM tool calling**.
+
+The agent currently supports:
+
+* 🌦️ **Real-time Weather Information**
+* 📰 **Latest News Search**
+* 🛠️ **LangChain Tool Calling**
+* 🙋 **Human-in-the-Loop Approval**
+* 🔄 **Tool Execution & Message History**
+* 🤖 **Mistral AI**
 
 **Current Stack**
+
+`Python` `LangChain` `Mistral AI` `OpenWeatherMap` `Tavily` `Streamlit`
+
+🔗 **Project:**
+https://github.com/ASHUTOSH-334/AI-Tool-Agent
+
+> 🚀 Learning how AI agents make decisions, call tools, use external information, and interact with users.
+
+---
+
+## 📚 Previous Project
+
+### 📖 RAG Document Chatbot
+
+A **Retrieval-Augmented Generation application** that allows users to interact with their documents using an LLM.
+
+**Stack**
 
 `Python` `LangChain` `Mistral AI` `ChromaDB` `Streamlit` `PyPDF`
 
@@ -100,12 +126,12 @@ https://github.com/ASHUTOSH-334/RAG-Document-Chatbot
                                │
                                ▼
                     ┌─────────────────────┐
-                    │    Machine Learning │
+                    │  Machine Learning   │
                     └──────────┬──────────┘
                                │
                                ▼
                     ┌─────────────────────┐
-                    │      GenAI / LLM    │
+                    │     GenAI / LLM     │
                     └──────────┬──────────┘
                                │
                 ┌──────────────┼──────────────┐
@@ -113,7 +139,7 @@ https://github.com/ASHUTOSH-334/RAG-Document-Chatbot
           LangChain          RAG          AI Agents
                 │              │              │
                 ▼              ▼              ▼
-             Models       Embeddings       Tools
+             Models       Embeddings      Tool Calling
                 │              │              │
                 └──────────────┼──────────────┘
                                ▼
@@ -139,6 +165,10 @@ https://github.com/ASHUTOSH-334/RAG-Document-Chatbot
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 
 <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral AI"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge&logo=robot&logoColor=white" alt="AI Agents"/>
+
+<img src="https://img.shields.io/badge/Tool%20Calling-7C3AED?style=for-the-badge" alt="Tool Calling"/>
 
 <img src="https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG"/>
 
@@ -177,6 +207,13 @@ https://github.com/ASHUTOSH-334/RAG-Document-Chatbot
 ## 🌟 Featured Projects
 
 <div align="center">
+
+<a href="https://github.com/ASHUTOSH-334/AI-Tool-Agent">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ASHUTOSH-334&repo=AI-Tool-Agent&theme=tokyonight&hide_border=true"
+    alt="AI Tool Agent"
+  />
+</a>
 
 <a href="https://github.com/ASHUTOSH-334/RAG-Document-Chatbot">
   <img
@@ -271,6 +308,7 @@ alt="GitHub Trophies"
 | 🎯 Area             | 🚀 Current Focus           |
 | ------------------- | -------------------------- |
 | 🤖 Generative AI    | LLM Applications           |
+| 🛠️ AI Agents       | Tool Calling & Automation  |
 | 🔎 RAG              | Retrieval Pipelines        |
 | 🦜 LangChain        | AI Application Development |
 | 🧠 Machine Learning | Applied ML                 |
@@ -289,13 +327,15 @@ alt="GitHub Trophies"
 ✅ Build RAG systems
 ✅ Learn LangChain
 ✅ Work with vector databases
-✅ Deploy AI applications
+✅ Build AI agents
+✅ Learn LLM tool calling
+✅ Build human-in-the-loop systems
 
-⬜ Build advanced AI agents
+⬜ Build advanced AI agent architectures
 ⬜ Explore advanced RAG architectures
 ⬜ Contribute to open source
 ⬜ Build production-ready AI systems
-⬜ Deploy more projects
+⬜ Deploy more AI projects
 ```
 
 ---
@@ -304,7 +344,7 @@ alt="GitHub Trophies"
 
 <div align="center">
 
-`Python` • `GenAI` • `RAG` • `LangChain` • `Mistral AI` • `ChromaDB` • `Streamlit` • `Git & GitHub`
+`Python` • `GenAI` • `AI Agents` • `RAG` • `LangChain` • `Mistral AI` • `ChromaDB` • `Tool Calling` • `Streamlit` • `Git & GitHub`
 
 </div>
 
